@@ -1,0 +1,73 @@
+
+ [
+        {
+            "Name": "Askaneli",
+            "Country": "Georgia",
+            "City": "Batumi",
+            "Street": "Rustaveli Ave",
+            "Number": "72",
+            "Start": 4.4,
+            "Latitude":"41.651910119997495",
+            "Longitude":"41.62687006285034"
+        },
+        {
+            "Name": "CoffeeHouse",
+            "Country": "Georgia",
+            "City": "Tbilisi ",
+            "Street": "Leo Kiacheli",
+            "Number": "8",
+            "Start": 4.7,
+            "Latitude":"41.70561300018941",
+            "Longitude":"44.790814740236314"
+        },
+        {
+            "Name": "HB",
+            "Country": "Georgia",
+            "City": "Tbilisi ",
+            "Street": "Vazha Pshavela",
+            "Number": "20",
+            "Start": 4.5,
+            "Latitude":"41.72804316801952",
+            "Longitude":"44.756639815493976"
+        },
+        {
+            "Name": "LionsBurger",
+            "Country": "Georgia",
+            "City": "Tbilisi ",
+            "Street": "Vazha Pshavela",
+            "Number": "78a",
+            "Start": 4.6,
+            "Latitude":"41.72378807703509",
+            "Longitude":"44.73076831346665"
+        },
+        {
+            "Name": "McDonalds",
+            "Country": "Georgia",
+            "City": "Tbilisi ",
+            "Street": "Omar Khizanishvili ",
+            "Number": "5",
+            "Start": 4.5,
+            "Latitude":"41.79578675095549",
+            "Longitude":"44.81415099422"
+        },
+        {
+            "Name": "Sofiko",
+            "Country": "Georgia",
+            "City": "Tbilisi ",
+            "Street": "Dzmebi Zdanevichebi",
+            "Number": "8",
+            "Start": 4.2,
+            "Latitude":"41.68929640536263",
+            "Longitude":"44.80835016743807"
+        },
+        {
+            "Name": "Stamba",
+            "Country": "Georgia",
+            "City": "Tbilisi ",
+            "Street": "Merab Kostava",
+            "Number": "14",
+            "Start": 4.7,
+            "Latitude":"41.70593667213938",
+            "Longitude":"44.787949999901464"
+        }
+    ]
